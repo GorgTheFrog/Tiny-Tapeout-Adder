@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     422957918936350721       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Tiny Tapeout 4-bit Ripple-Carry Adder"      # Project title
+  title:        "TinyTapeout 4 bit ripple carry adder"      # Project title
   author:       "Georg Brink Dyvad"      # Your name
   discord:      "threalfrog"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "An adder made of 4 full-adders with the first full-adders c_in connected to ground."      # One line description of what your project does
